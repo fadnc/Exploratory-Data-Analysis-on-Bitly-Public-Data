@@ -1,4 +1,4 @@
-#Analysis of USA.gov data from Bitly
+📊 Bitly Data Analysis from USA.gov
 
 This project performs an exploratory analysis of click data from the URL shortening service Bit;y, 
 specifically from the USA.gov open data feed.
